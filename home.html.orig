@@ -12,6 +12,10 @@
     <h2>this is heading</h2
     <h3>this is heading -3</h3> 
     <h2>please subcribe</h2>
+<<<<<<< HEAD
+    <p>the merging is import in the git <p>
+=======
     <p>git merging with diff and merge</p>
+>>>>>>> side-menu
 </body>
 </html>
